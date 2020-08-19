@@ -1,0 +1,4 @@
+module CurrentUserConcern
+    
+
+end
